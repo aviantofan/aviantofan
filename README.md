@@ -1,10 +1,10 @@
 # Hi everyone, Tofan Avianto Here!
 
-I'm enthusiastic about programming escpecially in javascript , java, and IOT concept 👍
+Data & software enthusiast | Turning ideas into scalable solutions, one line of code at a time.  
 
 ## Tools That i'm usually using
 
-<img src="https://img.icons8.com/plasticine/70/undefined/visual-studio-code-2019.png"/>  <img src="https://img.icons8.com/plasticine/60/undefined/chrome.png"/>  <img src="https://img.icons8.com/plasticine/60/undefined/figma.png"/>
+<img src="https://img.icons8.com/?size=100&id=v05jsvW3RprR&format=png&color=000000"/>  <img src="https://img.icons8.com/?size=100&id=4jtI0fEoczjg&format=png&color=000000"/> <img src="https://img.icons8.com/?size=100&id=46845&format=png&color=000000"/>
 
 ## My Specialities
 
